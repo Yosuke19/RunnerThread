@@ -1,0 +1,19 @@
+----------------------------------------------------------------
+Sat Mar 30 18:51:09 PDT 2019:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.2.0 - (1582446): instance a816c00e-0169-d171-7a40-000003421360 
+on database directory /Users/yosu/eclipse-workspace/YosukeOkazaki_JavaCompFinal/BineetDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@79b4d0f 
+Loaded from file:/Users/yosu/eclipse-workspace/YosukeOkazaki_JavaCompFinal/Resources/BineetDB/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=11.0.2+9-LTS
+user.dir=/Users/yosu/eclipse-workspace/YosukeOkazaki_JavaCompFinal
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.13.6
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Sat Mar 30 18:51:10 PDT 2019: Shutting down Derby engine
+----------------------------------------------------------------
+Sat Mar 30 18:51:10 PDT 2019:
+Shutting down instance a816c00e-0169-d171-7a40-000003421360 on database directory /Users/yosu/eclipse-workspace/YosukeOkazaki_JavaCompFinal/BineetDB with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@79b4d0f 
+----------------------------------------------------------------
